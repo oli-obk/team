@@ -1,0 +1,81 @@
+{
+  "name": "compiler-contributors",
+  "kind": "team",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "David Wood",
+      "github": "davidtwco",
+      "is_lead": false
+    },
+    {
+      "name": "Florian Diebold",
+      "github": "flodiebold",
+      "is_lead": false
+    },
+    {
+      "name": "Rémy Rakic",
+      "github": "lqd",
+      "is_lead": false
+    },
+    {
+      "name": "Aleksey Kladov",
+      "github": "matklad",
+      "is_lead": false
+    },
+    {
+      "name": "Matthew Jasper",
+      "github": "matthewjasper",
+      "is_lead": false
+    },
+    {
+      "name": "Nikita Popov",
+      "github": "nikic",
+      "is_lead": false
+    },
+    {
+      "name": "Nicholas Nethercote",
+      "github": "nnethercote",
+      "is_lead": false
+    },
+    {
+      "name": "Alexandre Martin",
+      "github": "scalexm",
+      "is_lead": false
+    },
+    {
+      "name": "Santiago Pastorino",
+      "github": "spastorino",
+      "is_lead": false
+    },
+    {
+      "name": "Tyler Mandry",
+      "github": "tmandry",
+      "is_lead": false
+    },
+    {
+      "name": "Wesley Wiser",
+      "github": "wesleywiser",
+      "is_lead": false
+    },
+    {
+      "name": "Igor Matuszewski",
+      "github": "Xanewok",
+      "is_lead": false
+    },
+    {
+      "name": "Zack M. Davis",
+      "github": "zackmdavis",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Compiler team contributors",
+    "description": "folks who contribute on a regular basis",
+    "page": "compiler-contributors",
+    "email": null,
+    "repo": "http://github.com/rust-lang/compiler-team",
+    "discord": null,
+    "weight": 0
+  }
+}

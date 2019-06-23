@@ -1,0 +1,26 @@
+{
+  "name": "wg-learning",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "is_lead": true
+    },
+    {
+      "name": "Santiago Pastorino",
+      "github": "spastorino",
+      "is_lead": true
+    }
+  ],
+  "website_data": {
+    "name": "Learning",
+    "description": "Make the compiler easier to learn by ensuring that rustc-guide and api docs are 'complete'",
+    "page": "wg-learning",
+    "email": null,
+    "repo": "https://github.com/rust-lang/compiler-team/blob/master/working-groups/learning",
+    "discord": null,
+    "weight": 0
+  }
+}

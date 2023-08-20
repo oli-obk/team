@@ -29,6 +29,7 @@ bors.rust.review = true
 bors.hashbrown.review = true
 bors.libc.review = true
 bors.stdarch.review = true
+dev-desktop = true
 
 [rfcbot]
 label = "T-libs-api"
